@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/repo-wtorek.props" />
+</Project>
